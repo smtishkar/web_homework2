@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(211, 205, 189);
+
+}
+
+h1{
+    color: rgb(173, 69, 43);
+}
+
+img{
+    width: 500px;
+    border: solid 5px;
+    border-color: rgb(17, 175, 180);
+}
+
+.big_text{
+    font-size: 18px;
+    color: brown;
+}
+
+a:hover{
+    color: rgb(41, 190, 103);
+}
+
